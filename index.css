@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 0.9rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*BUTTONS*/
+.btn-ask-me-how {
+	background-color: #514A3D !important;
+}
+
+.btn-fb {
+	background-color: #698A8F !important;
+}
+
+.btn-ig {
+	background-color: #B78397 !important;
+}
+
+.btn-li {
+	background-color: #E3B86C !important;
+}
+
+.btn-gh {
+	background-color: #7F9E90 !important;
+}
+
+.about-me-card {
+	min-height: 100%;
+	background-color: #F5F5F5 !important;
+}
+
+.badge-style1 {
+	background-color: #B78397;
+}
+
+.badge-style2 {
+	background-color: #E3B86C;
+}
+
+.badge-style3 {
+	background-color: #7F9E90;
+}
+
+.badge-style4 {
+	background-color: #698A8F;
+}
+
+.badge-style5 {
+	background-color: #DCDCDC;
+}
+
+.btn-github-code {
+	background-color: #EEECE8 !important;
+	border: 1px solid #514A3D !important;
+}
